@@ -15,16 +15,20 @@ Make sure you have the following installed:
 1. Clone the repository using `git`:
 
    ```bash
+   
    git clone https://github.com/xshrutix/map_task.git
 2.Navigate to the project directory:
+
    cd map_task
 ### Installing Dependencies
  Install the dependencies using npm:
      ```bash
+     
       npm install
 ### Running the Development Server
 Start the development server using npm:
        ```bash
+       
         npm run dev
 
 ### Open your browser and navigate to http://localhost:5173 to view the app.
