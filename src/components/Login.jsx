@@ -18,7 +18,7 @@ const UserLoginPage = ({ onUserSignIn }) => {
                     <h3 className="text-xl font-medium text-gray-600">Sign In</h3>
                     <p className="text-gray-500 mt-2">Please sign in to avail functionality.</p>
                 </div>
-                <div ref={googleButtonRef} className="mb-4 mx-auto text-center"></div>
+                <div ref={googleButtonRef} className="mb-4 mx-auto text-center md:ml-24"></div>
                 <p className="text-sm text-gray-500 text-center mt-4">
                     By continuing, you are indicating that you accept our 
                     <a href="#" className="text-blue-500"> Terms of Service</a> 
